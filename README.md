@@ -28,15 +28,15 @@
 
 ## Features 
 
-### * Music
+### Music
 
 #### I recorded the song, that I wrote and played on my own casio keyboard. 
 
-### * Switch Statements
+### Switch Statements
 
 #### This project is primarily created and developed using switch statements that loop through with a series of  if statements.  For instance, if you fly to the houses, then go to the window or to the plants but not to the lake or the ground. You can either find a worm, a fly or a sad Axel. Once any of the three choices are randomly selected then Axel flies again and choose a new route. This process continues forever. 
 
-### * Original Art and Photography
+###  Original Art and Photography
 #### All of the drawings are my own made with sharpy markers on card stock. All of the photographs are other free to use, or taken by me personally. 
 
   
